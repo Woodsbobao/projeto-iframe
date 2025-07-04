@@ -40,8 +40,8 @@ iframe#tela{
     width: 200px;
 }
 img,section#redes{
-    width: 60px;
-    height: 60px;
+    width: 61px;
+    height: 61px;
     border-radius: 50%;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
     box-sizing: border-box;
